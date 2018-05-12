@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25586'
     url: http://www.gutenberg.org/2009/agents/25586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22889#Le-Journal-de-la-Belle-Meuni-re--13-Le-G-n-ral-Boulanger-et-son-amie--souvenirs-v-cus
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-10-05'
 gutenberg_type: Text
