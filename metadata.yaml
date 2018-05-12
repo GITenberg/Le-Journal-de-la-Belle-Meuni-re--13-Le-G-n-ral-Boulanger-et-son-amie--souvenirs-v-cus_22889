@@ -1,0 +1,28 @@
+_repo: Le-Journal-de-la-Belle-Meuni-re--13-Le-G-n-ral-Boulanger-et-son-amie--souvenirs-v-cus_22889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quinton, Marie
+    gutenberg_agent_id: '25586'
+    url: http://www.gutenberg.org/2009/agents/25586
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22889'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bonnemain, Marguerite, vicomtesse, de, 1855-1891'
+- !lcsh 'Boulanger, Georges-Ernest-Jean-Marie, 1837-1891'
+- !lcsh 'France -- Politics and government -- 1870-1940'
+- !lcc 'DC'
+title: "Le Journal de la Belle Meunière\r\nLe Général Boulanger et son amie; souvenirs\
+  \ vécus"
+url: http://www.gutenberg.org/ebooks/22889
